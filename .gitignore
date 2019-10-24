@@ -13,6 +13,8 @@ tmp/
 local.properties
 .settings/
 .loadpath
+.svn
+.vlt
 
 # Eclipse Core
 .project
